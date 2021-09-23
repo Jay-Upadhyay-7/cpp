@@ -1,2 +1,3 @@
-In this code we did not use # before header file , so it will fail during  preprosessing as it will not  detect header file , 
-and fatal error will pop up.
+In this code we did not use # before header file , so it will fail during  preprosessing as it will not  detect header file , so
+# is neccessary to use before header file. 
+
