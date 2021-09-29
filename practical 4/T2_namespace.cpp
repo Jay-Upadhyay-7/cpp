@@ -17,8 +17,6 @@ int main(){
   sum(5.3,3.4);
   sum(4.3,4);
   sum(6,6.7);
-  //first::sum(5,4);
-  //second::sum(7.9,8.3);
   return 0;}
 
   
