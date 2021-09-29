@@ -4,10 +4,10 @@ using namespace std;
 namespace first{
   void sum(int x, int y){
     cout<<x+y<<endl;}
-}
+}cpp
 namespace second{
   void sum(float x, float y){
-    cout<<x+y<<endl;}T1(b)_namespace.cpp
+    cout<<x+y<<endl;}
 }
 
 using namespace second;
