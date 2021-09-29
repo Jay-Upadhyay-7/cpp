@@ -7,7 +7,7 @@ namespace first{
 }
 namespace second{
   void sum(float x, float y){
-    cout<<x+y<<endl;}
+    cout<<x+y<<endl;}T1(b)_namespace.cpp
 }
 
 using namespace second;
