@@ -1,3 +1,6 @@
+/*WAP which would contain array of objects [many objects], of a class Student. Student [Name, Age, Year, section, marks], the section would be A,B,C and D. 
+Your program would be able to return the total marks of students in the college*/
+
 #include<iostream>
 #include<string>
 using namespace std;
