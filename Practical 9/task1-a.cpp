@@ -1,3 +1,4 @@
+// WAP to assign and print the roll number, phone number and address of two students having names "Sam" and "John" respectively by creating two objects of the class 'Student'.
 #include<iostream>
 #include<string>
 using namespace std;
