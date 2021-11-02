@@ -1,3 +1,6 @@
+//WAP in which you create a Student class having basic information for each student, like name, age and marks. By using friend function add marks of all the students and print it.
+
+
 #include<iostream>
 #include<string>
 using namespace std;
