@@ -1,3 +1,5 @@
+//WAP to count the total number of calls for a member function from more than one objects. [Lets say, from 3 such Objects]
+
 #include<iostream>
 using namespace std;
 class abc{
