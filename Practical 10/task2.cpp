@@ -1,3 +1,4 @@
+//WAP to create print or display Student information containing in Student class by using pointers to
 #include<iostream>
 using namespace std;
 class student
