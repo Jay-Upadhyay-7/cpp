@@ -1,3 +1,7 @@
+/*WAP in which you can add two objects [every object would have 1 integer value] by overloading + operator, which eventually would add the data values of
+those two object by adding the objects.*/
+
+
 #include<iostream>
 using namespace std;
 
