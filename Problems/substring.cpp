@@ -1,4 +1,3 @@
-#WAP to check for substring in a string and replace them with * eg: bob have a jahaj to *** have * jahaj
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
@@ -20,10 +19,10 @@ int palindrome(string s,int b,int e){
 int main(){
      string s;
      getline(cin,s);
-     
      int b=0,e=0,i=0;
-     while(s[i]!='\0'){
-       if(s[i]==' '){
+     int l=s.size();
+     while(i!=l+1){
+       if(s[i]==' '||s[i]=='\0'){
          if(palindrome(s,b,e-1)){
            int k=b;
            while(k!=e){
