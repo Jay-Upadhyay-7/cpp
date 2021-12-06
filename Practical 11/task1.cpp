@@ -16,6 +16,5 @@ class A{
   int main(){
   
   B obj;
-  obj.x;
-  obj.y;
+  
   obj.display();}
