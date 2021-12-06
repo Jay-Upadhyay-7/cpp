@@ -8,7 +8,7 @@ class A{
  private:
       int z;
      };
-  class B:public A{
+  class B:private A{
   public:
   void display(){
   x=10;
