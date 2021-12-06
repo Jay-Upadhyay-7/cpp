@@ -14,6 +14,7 @@ class A{
   x=10;
   y=35;
   // here we cant use z=10; as z is private in parent class
+   //now protected data of class b inherited from class a can be used in child class of b
   cout<<x<<endl<<y<<endl;}
   
   };
