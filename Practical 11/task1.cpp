@@ -2,8 +2,9 @@
 using namespace std;
 class A{
  public:
+     A(){
      int x;
-     int y;
+     int y;}
      };
   class B:public A{
   public:
