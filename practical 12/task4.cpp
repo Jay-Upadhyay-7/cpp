@@ -13,7 +13,7 @@ class A{
 class B:public A{
   public:
    B(int y){
-    cout<<y<<end;
+    cout<<y<<endl;
     cout<<"i am constructor of class B"<<endl;
   }
   int x=5;
